@@ -1,6 +1,6 @@
 [submodule "temporal"]
 	path = temporal
-	url = https://github.com/temporalio/temporal
+	url = https://github.com/revokom/temporal
 	branch = release/v1.22.x
 [submodule "tctl"]
 	path = tctl
